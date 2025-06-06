@@ -1,7 +1,5 @@
-# Jasson
-
 # Hi, I'm Jasson 👋  
-**Python Developer | Automation & Scripting**  
+**Beginner Python Developer | Automation & Scripting**  
 
 - 🛠️ Building simple Python tools to solve real-world problems  
 - 🌱 Currently learning: Web scraping & GUI apps  
